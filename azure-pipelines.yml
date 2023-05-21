@@ -10,8 +10,8 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 variables:
-  LT_USERNAME: 'Your LambdaTest Username'
-  LT_ACCESS_KEY: 'Your LambdaTest Access Key'
+  LT_USERNAME: 'ritamg
+  LT_ACCESS_KEY: 'e4vXxk64hYOIkG7gwld5Fsb5LpmhI8wq6J0LQ2KC9LSgJHc1N5'
 
 steps:
 - task: NodeTool@0
